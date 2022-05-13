@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+.wpo_after_order_items {
+    display: inline-block;
+    margin-left: 8px;
+}
+
+.wpo_after_order_items button {
+    /*float: right;
+    margin: 10px;*/
+    padding: 6px;
+}
+
+.wpo_after_customer_details {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.wpo_after_customer_details #save-to-customer-status {
+    vertical-align: middle;
+}
+
+.wpo_after_customer_details button {
+    margin: 10px;
+    padding: 6px;
+}
+
+#woo-phone-orders .total-fee-label {
+    display: block;
+    color: #777;
+    line-height: 12px;
+    padding: 0 0 8px 0;
+}
+
+.order-footer__custom_fields{
+    margin-bottom: 0;
+}
+.order-footer__custom_field{
+    margin-bottom: 15px;
+}
+
+.order-footer__custom_fields .wpo_custom_field {
+    display: block;
+}
+
+.order-footer__custom_field textarea {
+    width: 100%;
+}
+
+.find-results-full-screen-mode__search .search_options {
+    margin-bottom: 20px;
+}
+
+.search_option {
+    padding: 5px;
+}
+
+.search_option label{
+    padding: 0 5px 5px 5px;
+}
+
+.search_option select{
+    width: 200px
+}
+
+.form-table td{
+	padding: 5px 0 ;
+}
+.option_checkbox {
+	margin: 0 5px ;
+}
